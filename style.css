@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.body-container{
+    display: flex;
+}
+.content{
+    margin-top: 50px;
+}
+.pic-3{
+    position: absolute;
+    top: 220px;
+    left: 310px;
+}
+.pic-1{
+    margin-left: 582px;
+    margin-top: 295px;
+}
+.pic-2{
+    position: absolute;
+    left: 60px;
+}
+.blue{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+
+.content-2 h1 {
+    position: absolute;
+    left:800px;
+    top: 150px;
+}
+.content-2 p{
+    position: absolute;
+    left: 800px;
+    top: 280px;
+}
+
+.beneath-text{
+    margin-top: 25px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+}
